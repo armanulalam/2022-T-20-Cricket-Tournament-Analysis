@@ -43,12 +43,12 @@ Top 5 All-rounders of the tournament as per my analysis:
 4. Ben Stokes
 5. Bas de Leede
 
-Player of the tournament as per my analysis:
-Sikandar Raza
-Taken Runs - 219
-Strike Rate - 110.5
-Taken Wickets - 10
-Economy - 6.89
+Player of the tournament as per my analysis: </br>
+Sikandar Raza </br>
+Taken Runs - 219 </br>
+Strike Rate - 110.5 </br>
+Taken Wickets - 10 </br>
+Economy - 6.89 </br>
 
 Best 11 players squad based on the performance of the tournament as per my analysis (I consider strike rate and economy rate to choose players as well):
 1. Virat Kohli
