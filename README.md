@@ -77,5 +77,8 @@ Best 11 players squad based on the performance of the tournament as per my analy
    ```bash
    pip install -r requirements.txt
    ```
+4. Download the two files named bowler_summary.csv and batsman_summary.csv 
+5. Run 2022 T-20 Cricket Data Analysis.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset.
+6. Analysis the data through Tableau Public Dashboard.
 
 
