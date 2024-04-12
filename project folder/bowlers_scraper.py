@@ -63,4 +63,4 @@ for link in link_list:
 driver.quit()
 
 df = pd.DataFrame(bowling_summary)
-df.to_csv('bowlers_summary.csv',index=False)
+df.to_csv('bowler_summary.csv',index=False)
