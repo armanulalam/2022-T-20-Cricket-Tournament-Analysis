@@ -1,66 +1,58 @@
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
 driver = webdriver.Chrome()  
 
-
-url = 'https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=14450;type=tournament'
-driver.get(url)
-
-# all_rows = soup.select('table.engineTable > tbody > tr.data1')
-# links = ["https://www.espncricinfo.com" + row.select('td')[6].find('a')['href'] for row in all_rows]
-link_list = []
-rows = driver.find_elements(By.CLASS_NAME, 'ds-table')
-
-for idx, row in enumerate(rows):
-    match_links = row.find_elements(By.XPATH, '//a[contains(@href, "full-scorecard")]')
-    for link in match_links:
-        if link.get_attribute('href') not in link_list:
-            link_list.append(link.get_attribute('href'))
-    
-for item in link_list:
-        new_url = item
-        driver.get(new_url)
-        new_rows = driver.find_elements(By.CLASS_NAME, "ci-scorecard-table")
+def get_details(row):
+    tds = row.find_elements(By.CSS_SELECTOR, 'td')
+    summary = {}
+    summary['Bowler Name'] = tds[0].find_element(By.CSS_SELECTOR,'a').text.strip()
+    summary['Overs'] = tds[1].text.strip()
+    summary['Maiden'] = tds[2].text.strip()
+    summary['Runs'] = tds[3].text.strip()
+    summary['Wickets'] = tds[4].text.strip()
+    summary['Economy'] = tds[5].text.strip()
+    summary['0s'] = tds[6].text.strip()
+    summary['4s'] = tds[7].text.strip()
+    summary['6s'] = tds[8].text.strip()
+    summary['Wides'] = tds[9].text.strip()
+    summary['No Balls'] = tds[10].text.strip()
+    return summary
 
 
-bowling_summary = []
-for link in link_list:
-    driver.get(link)
-    
+def main():
+    driver = webdriver.Chrome()
+    link_list = []
 
-    match = [div for div in driver.find_elements(By.CSS_SELECTOR,'div') if div.find_element(By.CSS_SELECTOR,'span').text == "Match Details"]
-    team1 = match[0].find_next_siblings()[0].find('span').text.replace(" Innings", "")
-    team2 = match[0].find_next_siblings()[1].find('span').text.replace(" Innings", "")
-    match_info = team1 + ' Vs ' + team2
+    url = 'https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=14450;type=tournament'
+    driver.get(url)
 
-    tables = driver.find_elements(By.CSS_SELECTOR, 'div > table.ds-table')
-    first_inning_rows = [row for row in tables[1].select('tbody > tr') if len(row.find_all("td")) >= 11]
-    second_innings_rows = [row for row in tables[3].select('tbody > tr') if len(row.find_all("td")) >= 11]
+    rows = driver.find_elements(By.CLASS_NAME, 'ds-table')
+    bowling_summary = []
 
-    for rows, team in zip([first_inning_rows, second_innings_rows], [team2, team1]):
-        for row in rows:
-            tds = row.find_all('td')
-            bowling_summary.append({
-                "match": match_info,
-                "bowlingTeam": team,
-                "bowlerName": tds[0].find('a').text.replace(' ', ''),
-                "overs": tds[1].text,
-                "maiden": tds[2].text,
-                "runs": tds[3].text,
-                "wickets": tds[4].text,
-                "economy": tds[5].text,
-                "0s": tds[6].text,
-                "4s": tds[7].text,
-                "6s": tds[8].text,
-                "wides": tds[9].text,
-                "noBalls": tds[10].text
-            })
+    for idx, row in enumerate(rows):
+        match_links = row.find_elements(By.XPATH, '//a[contains(@href, "full-scorecard")]')
+        for link in match_links:
+            if link.get_attribute('href') not in link_list:
+                link_list.append(link.get_attribute('href'))
 
-driver.quit()
+    for match_url in link_list:
+        driver.get(match_url)
+        tables = driver.find_elements(By.CSS_SELECTOR, 'div > table.ds-table')
+        if len(tables) >= 2:
+            first_inning_rows = [row for row in tables[1].find_elements(By.CSS_SELECTOR,'tbody > tr') if len(row.find_elements(By.CSS_SELECTOR,"td")) >= 11]
+            second_inning_rows = [row for row in tables[3].find_elements(By.CSS_SELECTOR,'tbody > tr') if len(row.find_elements(By.CSS_SELECTOR,"td")) >= 11]
 
-df = pd.DataFrame(bowling_summary)
-df.to_csv('bowler_summary.csv',index=False)
+            for index, row in enumerate(first_inning_rows):
+                bowling_summary.append(get_details(row))
+
+            for index, row in enumerate(second_inning_rows):
+                bowling_summary.append(get_details(row))
+
+    df = pd.DataFrame(data=bowling_summary)
+    df.to_csv('bowler_summary_updated.csv', index=False)
+    driver.quit()
+
+if __name__ == '__main__':
+    main()
