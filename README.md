@@ -87,7 +87,7 @@ Top 10 Four takers:
 9. Kusal Mendis (17)
 10. Sikandar Raza (16)
 
-Top 10 Hard-hitter Batsman: (I considered Strike Rates and those batsman who faced at least 30 balls in the tournament)
+Top 10 Hard-hitter Batsman: (I considered highest Avg. Strike Rates and those batsman who faced at least 30 balls in the tournament)
 1. Suryakumar Yadav (182.6)
 2. Glenn Maxwell (161.2)
 3. Marcus Stoinis (159.2)
