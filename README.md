@@ -134,6 +134,18 @@ Bhuvneshwar Kumar </br>
 9. Gareth Delany (6)
 10. Chris Woakes (6)
 
+### Top 10 extra runs given bowlers:
+1. Mark Adair (17 runs)
+2. Lahiru Kumara (12 runs)
+3. Richard Ngarava (10 runs)
+4. Fred Klaassen (10 runs)
+5. Maheesh Theekshana (9 runs)
+6. Chris Woakes (9 runs)
+7. Bas de Leede (9 runs)
+8. Barry McCarthy (9 runs)
+9. Mohammad Wasim ( 8 runs)
+10. Josh Little (8 runs)
+
 ## Build from the source
 1. Clone the repo
    ```bash
