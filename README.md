@@ -12,6 +12,7 @@ The goal of this project is to scrape [this website](https://www.espncricinfo.co
 8. To find out the Top 10 Hard-hitter Batsman.
 9. To find out the Best Maiden taker bowler.
 10. To find out the Top 10 Death Over Bowlers.
+11. To find out the Top 10 extra runs given bowlers.
 
 Here, I scraped 699 and 500 data for Batsmans and Bowlers respectively.
 
