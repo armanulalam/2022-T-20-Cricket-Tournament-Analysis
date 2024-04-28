@@ -1,4 +1,4 @@
-# 2022-T-20-Cricket-Tournament-Analysis
+# 2022 T-20 World Cup Cricket Tournament Analysis
 
 ## Problem Statement
 The goal of this project is to scrape [this website](https://www.espncricinfo.com/records/tournament/team-match-results/icc-men-s-t20-world-cup-2022-23-14450) to collect the data to analysis 2022 T-20 Cricket World Cup. Then, I used the scraped data to analyze the following question based on the analysis of the Tableau Dashboard:
@@ -12,7 +12,7 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 
 ## My interesting findings from the [Dashboard](https://public.tableau.com/app/profile/armanul.alam/viz/DataAnalysisTableauProject/Dashboard1?publish=yes)
 
-Top 10 Batsman of the tournament as per my analysis:
+### Top 10 Batsman of the tournament as per my analysis:
 1. Virat Kohli 
 2. Max O'Dowd
 3. Suryakumar Yadav
@@ -24,7 +24,7 @@ Top 10 Batsman of the tournament as per my analysis:
 9. Lorcan Tucker
 10. Glenn Philips
 
-Top 10 Bowlers of the tournament as per my analysis:
+### Top 10 Bowlers of the tournament as per my analysis:
 1. Wanindu Hasaranga de Silva
 2. Sam Curran
 3. Bas de Leede
@@ -36,21 +36,21 @@ Top 10 Bowlers of the tournament as per my analysis:
 9. Anrich Nortje
 10. Sikandar Raza
 
-Top 5 All-rounders of the tournament as per my analysis:
+### Top 5 All-rounders of the tournament as per my analysis:
 1. Sikandar Raza
 2. Hardik Pandya
 3. Dhananjaya de Silva
 4. Ben Stokes
 5. Bas de Leede
 
-Player of the tournament as per my analysis: </br>
+### Player of the tournament as per my analysis: </br>
 Sikandar Raza </br>
 Taken Runs - 219 </br>
 Strike Rate - 110.5 </br>
 Taken Wickets - 10 </br>
 Economy - 6.89 </br>
 
-Best 11 players squad based on the performance of the tournament as per my analysis (I consider strike rate and economy rate to choose players as well):
+### Best 11 players squad based on the performance of the tournament as per my analysis (I consider strike rate and economy rate to choose players as well):
 1. Virat Kohli
 2. Suryakumar Yadav
 3. Kusal Mendis
@@ -63,7 +63,7 @@ Best 11 players squad based on the performance of the tournament as per my analy
 10. Shaheen Shah Afridi  
 11. Shadab Khan
 
-Top 10 Sixers:
+### Top 10 Sixers:
 1. Sikandar Raza (11)
 2. Kusal Mendis (10)
 3. Alex Hales (10)
@@ -75,7 +75,7 @@ Top 10 Sixers:
 9. Pathum Nissanka (8)
 10. Max O'Dowd (8)
 
-Top 10 Four takers:
+### Top 10 Four takers:
 1. Suryakumar Yadav (26)
 2. Virat Kohli (25)
 3. Jos Buttler (24)
@@ -87,7 +87,7 @@ Top 10 Four takers:
 9. Kusal Mendis (17)
 10. Sikandar Raza (16)
 
-Top 10 Hard-hitter Batsman: (I considered highest Avg. Strike Rates and those batsman who faced at least 30 balls in the tournament)
+### Top 10 Hard-hitter Batsman: (I considered highest Avg. Strike Rates and those batsman who faced at least 30 balls in the tournament)
 1. Suryakumar Yadav (182.6)
 2. Glenn Maxwell (161.2)
 3. Marcus Stoinis (159.2)
@@ -99,11 +99,11 @@ Top 10 Hard-hitter Batsman: (I considered highest Avg. Strike Rates and those ba
 9. Litton Das (131.1)
 10. Gareth Delany (131.0)
 
-Best Maiden taker bowler:
-Bhuvneshwar Kumar<\br>
+### Best Maiden taker bowler: <\br>
+Bhuvneshwar Kumar <\br>
 3 Overs maiden
 
-Top 10 Death Over Bowlers: (I considered lowest Avg. Economy bowlers and those who did at least 10 overs in the tournament)
+### Top 10 Death Over Bowlers: (I considered lowest Avg. Economy bowlers and those who did at least 10 overs in the tournament)
 1. Jason Holder (4.67)
 2. Zahoor Khan (4.75)
 3. Bernard Scholtz (5.083)
@@ -112,10 +112,10 @@ Top 10 Death Over Bowlers: (I considered lowest Avg. Economy bowlers and those w
 6. Mark Watt (5.83)
 7. Sean Williams (6.093)
 8. Shaheen Shah Afridi (6.094)
-9. AdilRashid (6.125)
+9. Adil Rashid (6.125)
 10. Naseem Shah (6.19)
 
-Top 10 6s consumed Bowlers:
+### Top 10 6s consumed Bowlers:
 1. Wanindu Hasaranga (8)
 2. Ravichandran Ashwin (8)
 3. Maheesh Theekshana (8)
