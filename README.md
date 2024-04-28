@@ -44,7 +44,7 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 9. Anrich Nortje
 10. Sikandar Raza
 
-        ![dashboard1] <img width="569" alt="dashboard1" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/6dd9a0d1-83ee-458a-9fed-a9ed6bd66a5d">
+<img width="569" alt="dashboard1" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/90d606e6-d030-413a-aefd-98502635e42c">
 
 
 ### Top 5 All-rounders of the tournament as per my analysis:
@@ -54,7 +54,7 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 4. Ben Stokes
 5. Bas de Leede
 
-        ![dashboard2] <img width="921" alt="dashboard2" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/68755e5c-218f-4cf7-92ea-207d5491f988">
+<img width="921" alt="dashboard2" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/68755e5c-218f-4cf7-92ea-207d5491f988">
 
 
 ### Player of the tournament as per my analysis: </br>
@@ -113,7 +113,7 @@ Economy - 6.89 </br>
 9. Litton Das (131.1)
 10. Gareth Delany (131.0)
 
-    ![dashboard3] <img width="577" alt="dashboard3" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/8ea7e9a0-013b-4f03-a1c6-4660bdcecf36">
+<img width="577" alt="dashboard3" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/8ea7e9a0-013b-4f03-a1c6-4660bdcecf36">
 
 
 ### Best Maiden taker bowler: </br>
@@ -144,7 +144,7 @@ Bhuvneshwar Kumar </br>
 9. Gareth Delany (6)
 10. Chris Woakes (6)
 
-    ![dashboard4] <img width="581" alt="dashboard4" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/5b64f2c4-b9c9-4e99-bf5e-31724657886d">
+<img width="581" alt="dashboard4" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/5b64f2c4-b9c9-4e99-bf5e-31724657886d">
 
 
 ### Top 10 extra runs given bowlers:
