@@ -7,11 +7,13 @@ The goal of this project is to scrape [this website](https://www.espncricinfo.co
 3. Top 5 All rounders of the tournament based on the run scores and taken wickets. 
 4. To find out the Player of The Tournament based on the batting and bowling performance including strike rate and economy rate.
 5. To find out the best 11 players squad of the tournament based on their performance.
-6. To find out the Top 10 Sixers
-7. To find out the Top 10 Four takers
-8. To find out the Top 10 Hard-hitter Batsman
-9. To find out the Best Maiden taker bowler
-10. To find out the Top 10 Death Over Bowlers
+6. To find out the Top 10 Sixers.
+7. To find out the Top 10 Four takers.
+8. To find out the Top 10 Hard-hitter Batsman.
+9. To find out the Best Maiden taker bowler.
+10. To find out the Top 10 Death Over Bowlers.
+
+Here, I scraped 699 data for Batsmans and 500 data for Bowlers.
 
 You can look the dashboard at a glance [here](https://public.tableau.com/app/profile/armanul.alam/viz/DataAnalysisTableauProject/Dashboard1?publish=yes).
 
@@ -146,15 +148,14 @@ Bhuvneshwar Kumar </br>
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the batsmans_scraper.py and bowlers_scraper.py to scrape the necessary data from the website or Download the two files named bowler_summary_updated.csv and batsman_summary_updated.csv
+4. Run the scrpers/batsmans_scraper.py and scrpers/bowlers_scraper.py to scrape the necessary data from the website or Download the two files from data/batsman/batsman_summary_scraped.csv and data/bowlers/bowler_summary_scraped.csv
    ```bash
-   python batsmans_scraper.py
+   python scrapers/batsmans_scraper.py
    ```
    ```bash
-   python bowlers_scraper.py
+   python scrapers/bowlers_scraper.py
    ```
-5. Run 2022 T-20 Cricket Data Analysis.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset.
-6. You will get the two new csv files named new_batsman_updated_summary.csv and new_bowler_updated_summary.csv
-7. Analysis the data through Tableau Public Dashboard based on the new_batsman_updated_summary.csv and new_bowler_updated_summary.csv
+5. Run dat_preprocessing.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset which you found in data/batsman/batsman_summary_preprocessed.csv and data/bowlers/bowler_summary_preprocessed.csv
+6. Analysis the data through Tableau Public Dashboard based on the batsman_summary_preprocessed.csv and bowler_summary_preprocessed.csv
 
 
