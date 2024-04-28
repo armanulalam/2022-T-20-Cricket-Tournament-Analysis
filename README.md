@@ -99,8 +99,8 @@ Economy - 6.89 </br>
 9. Litton Das (131.1)
 10. Gareth Delany (131.0)
 
-### Best Maiden taker bowler: <\br>
-Bhuvneshwar Kumar <\br>
+### Best Maiden taker bowler: </br>
+Bhuvneshwar Kumar </br>
 3 Overs maiden
 
 ### Top 10 Death Over Bowlers: (I considered lowest Avg. Economy bowlers and those who did at least 10 overs in the tournament)
