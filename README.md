@@ -2,11 +2,16 @@
 
 ## Problem Statement
 The goal of this project is to scrape [this website](https://www.espncricinfo.com/records/tournament/team-match-results/icc-men-s-t20-world-cup-2022-23-14450) to collect the data to analysis 2022 T-20 Cricket World Cup. Then, I used the scraped data to analyze the following question based on the analysis of the Tableau Dashboard:
-1. Top 10 batsman of the tournament based on the run scores.
-2. Top 10 bowler of the tournament based on the taken wickets.
-3. Top 5 batsman of the tournament based on the run scores and taken wickets. 
+1. Top 10 batsmans of the tournament based on the run scores.
+2. Top 10 bowlers of the tournament based on the taken wickets.
+3. Top 5 All rounders of the tournament based on the run scores and taken wickets. 
 4. To find out the Player of The Tournament based on the batting and bowling performance including strike rate and economy rate.
 5. To find out the best 11 players squad of the tournament based on their performance.
+6. To find out the Top 10 Sixers
+7. To find out the Top 10 Four takers
+8. To find out the Top 10 Hard-hitter Batsman
+9. To find out the Best Maiden taker bowler
+10. To find out the Top 10 Death Over Bowlers
 
 You can look the dashboard at a glance [here](https://public.tableau.com/app/profile/armanul.alam/viz/DataAnalysisTableauProject/Dashboard1?publish=yes).
 
