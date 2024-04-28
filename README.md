@@ -44,12 +44,18 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 9. Anrich Nortje
 10. Sikandar Raza
 
+        <img width="569" alt="dashboard1" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/6dd9a0d1-83ee-458a-9fed-a9ed6bd66a5d">
+
+
 ### Top 5 All-rounders of the tournament as per my analysis:
 1. Sikandar Raza
 2. Hardik Pandya
 3. Dhananjaya de Silva
 4. Ben Stokes
 5. Bas de Leede
+
+        <img width="921" alt="dashboard2" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/68755e5c-218f-4cf7-92ea-207d5491f988">
+
 
 ### Player of the tournament as per my analysis: </br>
 Sikandar Raza </br>
@@ -107,6 +113,9 @@ Economy - 6.89 </br>
 9. Litton Das (131.1)
 10. Gareth Delany (131.0)
 
+    <img width="577" alt="dashboard3" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/8ea7e9a0-013b-4f03-a1c6-4660bdcecf36">
+
+
 ### Best Maiden taker bowler: </br>
 Bhuvneshwar Kumar </br>
 3 Overs maiden
@@ -135,6 +144,9 @@ Bhuvneshwar Kumar </br>
 9. Gareth Delany (6)
 10. Chris Woakes (6)
 
+    <img width="581" alt="dashboard4" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/5b64f2c4-b9c9-4e99-bf5e-31724657886d">
+
+
 ### Top 10 extra runs given bowlers:
 1. Mark Adair (17 runs)
 2. Lahiru Kumara (12 runs)
@@ -161,14 +173,15 @@ Bhuvneshwar Kumar </br>
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the scrpers/batsmans_scraper.py and scrpers/bowlers_scraper.py to scrape the necessary data from the website or Download the two files from data/batsman/batsman_summary_scraped.csv and data/bowlers/bowler_summary_scraped.csv
+4. Download the Chrome Webdriver.
+5. Run the scrpers/batsmans_scraper.py and scrpers/bowlers_scraper.py to scrape the necessary data from the website or Download the two files from data/batsman/batsman_summary_scraped.csv and data/bowlers/bowler_summary_scraped.csv
    ```bash
    python scrapers/batsmans_scraper.py
    ```
    ```bash
    python scrapers/bowlers_scraper.py
    ```
-5. Run dat_preprocessing.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset which you found in data/batsman/batsman_summary_preprocessed.csv and data/bowlers/bowler_summary_preprocessed.csv
-6. Analysis the data through Tableau Public Dashboard based on the batsman_summary_preprocessed.csv and bowler_summary_preprocessed.csv
+6. Run dat_preprocessing.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset which you found in data/batsman/batsman_summary_preprocessed.csv and data/bowlers/bowler_summary_preprocessed.csv
+7. Analysis the data through Tableau Public Dashboard based on the batsman_summary_preprocessed.csv and bowler_summary_preprocessed.csv
 
 
