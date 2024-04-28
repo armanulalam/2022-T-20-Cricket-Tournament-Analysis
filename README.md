@@ -13,7 +13,7 @@ The goal of this project is to scrape [this website](https://www.espncricinfo.co
 9. To find out the Best Maiden taker bowler.
 10. To find out the Top 10 Death Over Bowlers.
 
-Here, I scraped 699 data for Batsmans and 500 data for Bowlers.
+Here, I scraped 699 and 500 data for Batsmans and Bowlers respectively.
 
 You can look the dashboard at a glance [here](https://public.tableau.com/app/profile/armanul.alam/viz/DataAnalysisTableauProject/Dashboard1?publish=yes).
 
