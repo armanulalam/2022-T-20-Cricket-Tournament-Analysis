@@ -15,9 +15,9 @@ The goal of this project is to scrape [this website](https://www.espncricinfo.co
 
 Here, I scraped 699 and 500 data for Batsmans and Bowlers respectively.
 
-You can look the dashboard at a glance [here](https://public.tableau.com/app/profile/armanul.alam/viz/DataAnalysisTableauProject/Dashboard1?publish=yes).
+You can look the dashboard at a glance [here](https://public.tableau.com/app/profile/armanul.alam/viz/2022T20WorldCupCricketTournamentAnalysis/Top10batsmansbowlersandextrarungivenbowlers?publish=yes).
 
-## My interesting findings from the [Dashboard](https://public.tableau.com/app/profile/armanul.alam/viz/DataAnalysisTableauProject/Dashboard1?publish=yes)
+## My interesting findings from the [Dashboard](https://public.tableau.com/app/profile/armanul.alam/viz/2022T20WorldCupCricketTournamentAnalysis/Top10batsmansbowlersandextrarungivenbowlers?publish=yes)
 
 ### Top 10 Batsman of the tournament as per my analysis:
 1. Virat Kohli 
