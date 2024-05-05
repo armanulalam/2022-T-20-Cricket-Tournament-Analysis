@@ -185,6 +185,6 @@ Bhuvneshwar Kumar </br>
 7. Analysis the data through Tableau Public Dashboard based on the batsman_summary_preprocessed.csv and bowler_summary_preprocessed.csv
 
 
-If you have any further queries then you can send me an [email](armaanularmaan@gmail.com)
+If you have any further queries then you can send me an email to armaanularmaan@gmail.com
 
 
