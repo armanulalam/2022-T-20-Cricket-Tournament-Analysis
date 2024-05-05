@@ -181,7 +181,7 @@ Bhuvneshwar Kumar </br>
    ```bash
    python scrapers/bowlers_scraper.py
    ```
-6. Run dat_preprocessing.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset which you found in data/batsman/batsman_summary_preprocessed.csv and data/bowlers/bowler_summary_preprocessed.csv
+6. Run data_preprocessing.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset which you found in data/batsman/batsman_summary_preprocessed.csv and data/bowlers/bowler_summary_preprocessed.csv
 7. Analysis the data through Tableau Public Dashboard based on the batsman_summary_preprocessed.csv and bowler_summary_preprocessed.csv
 
 
