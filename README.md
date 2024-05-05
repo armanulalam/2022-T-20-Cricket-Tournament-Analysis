@@ -162,7 +162,7 @@ Bhuvneshwar Kumar </br>
 ## Build from the source
 1. Clone the repo
    ```bash
-   git clone https://github.com/armanulalam/2022-T-20-Cricket-Tournament-Analysis.git
+   git clone https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis.git
    ```
 2. Initialize and activate virtual environment
    ```bash
