@@ -20,7 +20,7 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 
 ## My interesting findings from the [Dashboard](https://public.tableau.com/app/profile/armanul.alam/viz/2022T20WorldCupCricketTournamentAnalysis/Top10batsmansbowlersandextrarungivenbowlers?publish=yes)
 
-### Dashboard 1:
+### Dashboard 1 Findings:
 
 <img width="569" alt="dashboard1" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/90d606e6-d030-413a-aefd-98502635e42c"><br/>
 
@@ -48,7 +48,7 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 9. Anrich Nortje
 10. Sikandar Raza
 
-### Dashboard 2:
+### Dashboard 2 Findings:
 
 <img width="921" alt="dashboard2" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/68755e5c-218f-4cf7-92ea-207d5491f988"><br/>
 
@@ -79,7 +79,7 @@ Economy - 6.89 </br>
 10. Shaheen Shah Afridi  
 11. Shadab Khan
 
-### Dashboard 3:
+### Dashboard 3 Findings:
 
 <img width="577" alt="dashboard3" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/8ea7e9a0-013b-4f03-a1c6-4660bdcecf36"><br/>
 
@@ -119,7 +119,7 @@ Economy - 6.89 </br>
 9. Litton Das (131.1)
 10. Gareth Delany (131.0)
 
-### Dashboard 4:
+### Dashboard 4 Findings:
 
 <img width="581" alt="dashboard4" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/5b64f2c4-b9c9-4e99-bf5e-31724657886d"><br/>
 
