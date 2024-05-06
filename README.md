@@ -20,7 +20,11 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 
 ## My interesting findings from the [Dashboard](https://public.tableau.com/app/profile/armanul.alam/viz/2022T20WorldCupCricketTournamentAnalysis/Top10batsmansbowlersandextrarungivenbowlers?publish=yes)
 
-### Top 10 Batsman of the tournament as per my analysis:
+### Dashboard 1:
+
+<img width="569" alt="dashboard1" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/90d606e6-d030-413a-aefd-98502635e42c">
+
+**Top 10 Batsman of the tournament as per my analysis:**
 1. Virat Kohli 
 2. Max O'Dowd
 3. Suryakumar Yadav
@@ -32,7 +36,7 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 9. Lorcan Tucker
 10. Glenn Philips
 
-### Top 10 Bowlers of the tournament as per my analysis:
+**Top 10 Bowlers of the tournament as per my analysis:**
 1. Wanindu Hasaranga de Silva
 2. Sam Curran
 3. Bas de Leede
@@ -44,27 +48,25 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 9. Anrich Nortje
 10. Sikandar Raza
 
-<img width="569" alt="dashboard1" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/90d606e6-d030-413a-aefd-98502635e42c">
+### Dashboard 2:
 
+<img width="921" alt="dashboard2" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/68755e5c-218f-4cf7-92ea-207d5491f988">
 
-### Top 5 All-rounders of the tournament as per my analysis:
+**Top 5 All-rounders of the tournament as per my analysis:**
 1. Sikandar Raza
 2. Hardik Pandya
 3. Dhananjaya de Silva
 4. Ben Stokes
 5. Bas de Leede
 
-<img width="921" alt="dashboard2" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/68755e5c-218f-4cf7-92ea-207d5491f988">
-
-
-### Player of the tournament as per my analysis: </br>
+**Player of the tournament as per my analysis:** </br>
 Sikandar Raza </br>
 Taken Runs - 219 </br>
 Strike Rate - 110.5 </br>
 Taken Wickets - 10 </br>
 Economy - 6.89 </br>
 
-### Best 11 players squad based on the performance of the tournament as per my analysis (I consider strike rate and economy rate to choose players as well):
+**Best 11 players squad based on the performance of the tournament as per my analysis (I consider strike rate and economy rate to choose players as well):**
 1. Virat Kohli
 2. Suryakumar Yadav
 3. Kusal Mendis
@@ -77,7 +79,11 @@ Economy - 6.89 </br>
 10. Shaheen Shah Afridi  
 11. Shadab Khan
 
-### Top 10 Sixers:
+### Dashboard 3:
+
+<img width="577" alt="dashboard3" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/8ea7e9a0-013b-4f03-a1c6-4660bdcecf36">
+
+**Top 10 Sixers:**
 1. Sikandar Raza (11)
 2. Kusal Mendis (10)
 3. Alex Hales (10)
@@ -89,7 +95,7 @@ Economy - 6.89 </br>
 9. Pathum Nissanka (8)
 10. Max O'Dowd (8)
 
-### Top 10 Four takers:
+**Top 10 Four takers:**
 1. Suryakumar Yadav (26)
 2. Virat Kohli (25)
 3. Jos Buttler (24)
@@ -101,7 +107,7 @@ Economy - 6.89 </br>
 9. Kusal Mendis (17)
 10. Sikandar Raza (16)
 
-### Top 10 Hard-hitter Batsman: (I considered highest Avg. Strike Rates and those batsman who faced at least 30 balls in the tournament)
+**Top 10 Hard-hitter Batsman (I considered highest Avg. Strike Rates and those batsman who faced at least 30 balls in the tournament):**
 1. Suryakumar Yadav (182.6)
 2. Glenn Maxwell (161.2)
 3. Marcus Stoinis (159.2)
@@ -113,14 +119,16 @@ Economy - 6.89 </br>
 9. Litton Das (131.1)
 10. Gareth Delany (131.0)
 
-<img width="577" alt="dashboard3" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/8ea7e9a0-013b-4f03-a1c6-4660bdcecf36">
+### Dashboard 4:
+
+<img width="581" alt="dashboard4" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/5b64f2c4-b9c9-4e99-bf5e-31724657886d">
 
 
-### Best Maiden taker bowler: </br>
+**Best Maiden taker bowler:** </br>
 Bhuvneshwar Kumar </br>
 3 Overs maiden
 
-### Top 10 Death Over Bowlers: (I considered lowest Avg. Economy bowlers and those who did at least 10 overs in the tournament)
+**Top 10 Death Over Bowlers (I considered lowest Avg. Economy bowlers and those who did at least 10 overs in the tournament):**
 1. Jason Holder (4.67)
 2. Zahoor Khan (4.75)
 3. Bernard Scholtz (5.083)
@@ -132,7 +140,7 @@ Bhuvneshwar Kumar </br>
 9. Adil Rashid (6.125)
 10. Naseem Shah (6.19)
 
-### Top 10 6s consumed Bowlers:
+**Top 10 6s consumed Bowlers:**
 1. Wanindu Hasaranga (8)
 2. Ravichandran Ashwin (8)
 3. Maheesh Theekshana (8)
@@ -144,10 +152,7 @@ Bhuvneshwar Kumar </br>
 9. Gareth Delany (6)
 10. Chris Woakes (6)
 
-<img width="581" alt="dashboard4" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/5b64f2c4-b9c9-4e99-bf5e-31724657886d">
-
-
-### Top 10 extra runs given bowlers:
+**Top 10 extra runs given bowlers:**
 1. Mark Adair (17 runs)
 2. Lahiru Kumara (12 runs)
 3. Richard Ngarava (10 runs)
@@ -174,15 +179,15 @@ Bhuvneshwar Kumar </br>
    pip install -r requirements.txt
    ```
 4. Download the Chrome Webdriver.
-5. Run the scrpers/batsmans_scraper.py and scrpers/bowlers_scraper.py to scrape the necessary data from the website or Download the two files from data/batsman/batsman_summary_scraped.csv and data/bowlers/bowler_summary_scraped.csv
+5. Run the ```scrpers/batsmans_scraper.py``` and ```scrpers/bowlers_scraper.py``` to scrape the necessary data from the website or Download the two files from ```data/batsman/batsman_summary_scraped.csv``` and ```data/bowlers/bowler_summary_scraped.csv```.
    ```bash
    python scrapers/batsmans_scraper.py
    ```
    ```bash
    python scrapers/bowlers_scraper.py
    ```
-6. Run data_preprocessing.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset which you found in data/batsman/batsman_summary_preprocessed.csv and data/bowlers/bowler_summary_preprocessed.csv
-7. Analysis the data through Tableau Public Dashboard based on the batsman_summary_preprocessed.csv and bowler_summary_preprocessed.csv
+6. Run data_preprocessing.ipynb file in jupyter notebook to preprocess,manipulate and transform the dataset which you found in ```data/batsman/batsman_summary_preprocessed.csv``` and ```data/bowlers/bowler_summary_preprocessed.csv```
+7. Analysis the data through Tableau Public Dashboard based on the ```batsman_summary_preprocessed.csv``` and ```bowler_summary_preprocessed.csv```.
 
 
 If you have any further queries then you can send me an email to armaanularmaan@gmail.com
