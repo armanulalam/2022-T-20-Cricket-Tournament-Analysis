@@ -22,7 +22,7 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 
 ### Dashboard 1:
 
-<img width="569" alt="dashboard1" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/90d606e6-d030-413a-aefd-98502635e42c">
+<img width="569" alt="dashboard1" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/90d606e6-d030-413a-aefd-98502635e42c"><br/>
 
 **Top 10 Batsman of the tournament as per my analysis:**
 1. Virat Kohli 
@@ -50,7 +50,7 @@ You can look the dashboard at a glance [here](https://public.tableau.com/app/pro
 
 ### Dashboard 2:
 
-<img width="921" alt="dashboard2" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/68755e5c-218f-4cf7-92ea-207d5491f988">
+<img width="921" alt="dashboard2" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/68755e5c-218f-4cf7-92ea-207d5491f988"><br/>
 
 **Top 5 All-rounders of the tournament as per my analysis:**
 1. Sikandar Raza
@@ -81,7 +81,7 @@ Economy - 6.89 </br>
 
 ### Dashboard 3:
 
-<img width="577" alt="dashboard3" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/8ea7e9a0-013b-4f03-a1c6-4660bdcecf36">
+<img width="577" alt="dashboard3" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/8ea7e9a0-013b-4f03-a1c6-4660bdcecf36"><br/>
 
 **Top 10 Sixers:**
 1. Sikandar Raza (11)
@@ -121,7 +121,7 @@ Economy - 6.89 </br>
 
 ### Dashboard 4:
 
-<img width="581" alt="dashboard4" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/5b64f2c4-b9c9-4e99-bf5e-31724657886d">
+<img width="581" alt="dashboard4" src="https://github.com/armanulalam/2022-T20-WorldCup-Cricket-Tournament-Analysis/assets/65443530/5b64f2c4-b9c9-4e99-bf5e-31724657886d"><br/>
 
 
 **Best Maiden taker bowler:** </br>
